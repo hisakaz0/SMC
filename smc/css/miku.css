@@ -1,0 +1,74 @@
+	/* css for main */
+
+div#band {
+	width:1210px;
+	height:1060px;
+	margin-top:10px;
+	margin-left:10px;	
+	margin-right:10px;
+	margin-bottom:10px;
+	text-align:left;
+}
+div#vocal {
+	width:1030px;
+	height:150px;
+	padding:5px;
+	padding-left:15px;
+}
+div#string {
+	width:820px;
+	height:960px;
+ 	float:left;
+}
+div#reference {
+	border-width:10px 0px 0px 0px;
+	float:left;
+}
+div#regist {
+	border-width:10px 0px 0px 0px;
+	float:right;
+}
+div#check{
+	border-width:0px 0px 10px 0px;
+	float:left;
+}
+div#hisa{
+	border-width:0px 0px 10px 0px;
+	float:right;
+}
+div#keyboard {
+ 	width:200px;
+	height:930px;
+	padding:5px;
+	border-width:10px 10px 0px 10px;
+	border-color:white;
+	border-style:solid;
+	float:left;
+}
+div#drum {
+	width:1030px;
+	height:100px;
+	padding:5px; 
+ 	clear:left;
+}
+.black { 
+	color:white;
+	background:black;
+}
+.white { 
+	color:black;
+	background:white;
+}
+div.subfloat {
+	width:400px;
+	height:460px;
+	padding:5px;
+	border-color:white;
+	border-style:solid;
+}
+
+.text { line-height : 140% }
+.main { font-size : 50 }
+.sub  { font-size : 25 }
+table {	color:inherit; font-weight:bold; }
+th { height :	30px }

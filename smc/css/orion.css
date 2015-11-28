@@ -1,0 +1,63 @@
+/* css for regist */
+#vocal {
+	background:#3A01DF;
+}
+
+#melody {
+	background:#7401DF;
+}
+
+#keyboard {
+	background:#6A0888;
+}
+
+#drum {
+	background:#8A0868;
+}
+
+#band {
+	width:1040px;
+	height:940px;
+	margin-top:10px;
+	margin-left:10px;	
+	margin-right:auto;
+	text-align:left;
+}
+
+#vocal {
+	width:1020px;
+	height:100px;
+	padding:10px 10px 5px;
+}
+
+#melody {
+	width:850px;
+	height:680px;
+	padding:15px 15px 15px 20px; 
+ 	float:left;
+}
+
+#back{
+	width:50px;
+	height:25px;
+	position:absolute; left:830px; top:795px;
+}
+
+#keyboard {
+ 	width:120px;
+	height:680px;
+	padding:15px 20px 15px 15px;
+	float:right;
+}
+
+#drum {
+	width:1020px;
+	height:100px;
+	padding:5px 10px 10px; 
+ 	clear:left;
+}
+
+.text { line-height : 140% }
+.main { font-size : 50 }
+.sub  { font-size : 25 }
+

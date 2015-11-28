@@ -1,0 +1,72 @@
+/* css for reference */
+#vocal {
+	background:#FE642E;
+}
+
+#melody {
+	background:#FE2E2E;
+}
+
+#keyboard {
+	background:#DBA901;
+}
+
+#drum {
+	background:#86B404;
+}
+
+#band {
+	width:1040px;
+	height:940px;
+	margin-top:10px;
+	margin-left:10px;	
+	margin-right:auto;
+	text-align:left;
+}
+
+#vocal {
+	width:1020px;
+	height:100px;
+	padding:10px 10px 5px;
+}
+
+#melody {
+	width:850px;
+	height:680px;
+	padding:15px 15px 15px 20px; 
+ 	float:left;
+}
+
+div#button{
+	width:100px;
+	height:25px;
+	position:absolute; left:830px; top:795px;
+}
+
+#keyboard {
+ 	width:120px;
+	height:680px;
+	padding:15px 20px 15px 15px;
+	float:right;
+}
+
+#drum {
+	width:1020px;
+	height:100px;
+	padding:5px 10px 10px; 
+ 	clear:left;
+}
+
+.text { line-height : 140% }
+.main { font-size : 50 }
+.sub  { font-size : 25 }
+
+tr.red			{ background : #FE2E2E }
+tr.blue			{ background : blue }
+th.id  			{ width : 100px  }
+th.goods  	{ width : 180px }
+th.user	  	{ width : 120px }
+th.barcode	{ width : 150px }
+th.value  	{ width : 70px }
+th.datetime	{ width : 200px }
+
